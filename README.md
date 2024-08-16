@@ -12,7 +12,7 @@ I'm also deeply interested in **Web Development**, **   **, **Automation Tools**
 
 ##  GitHub Stats
 
-![Orv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsOrv&show_icons=true&theme=radical)
+![Orv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsOrv&show_icons=true&theme=dark)
 
 
 
