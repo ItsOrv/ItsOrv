@@ -1,16 +1,20 @@
-## Hi there 👋
+I'm Orv 
+##  |  | 
 
-<!--
-**ItsOrv/ItsOrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm passionate about
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Languages and Tools:
+[![Python][python-shield]][python-url]
+
+### Have to learn:
+[![Rust][rust-shield]][rust-url]
+[![Bash][bash-shield]][bash-url]
+
+
+
+### 📈 GitHub Stats
+
+![Orv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsOrv&show_icons=true&theme=radical)
