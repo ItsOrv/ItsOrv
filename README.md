@@ -1,19 +1,23 @@
-## Welcome to My GitHub Profile
+## Welcome to My GitHub Profile  
 
-I'm passionate about **Cybersecurity** , **Telegram Bots** and **Artificial Intelligence**. Though I'm still in the learning phase.
+I'm a tech enthusiast with a deep passion for **Cybersecurity**, **Artificial Intelligence**, and **Telegram Bot Development**. My journey revolves around exploring innovative solutions and expanding my technical expertise.  
 
-I'm also interested in **Web Development**, **Automation Tools**. I enjoy exploring new ideas and turning them into practical code, even if I don’t have a specific mission or goal in mind—it's all about the journey and the learning process.
+Currently, I’m deepening my knowledge in **Machine Learning**, **Automation**, and **Web Development**, while working with diverse tools and libraries to build impactful projects.  
 
-##  Technologies & Tools
+## Skills & Technologies  
 
-- **Programming Languages**: Python
-- **Interests**: Artificial Intelligence, Web Development, Cybersecurity, Automation, Bypassing Internet Filters
-- **Learning**: Continuously improving my skills in Python and exploring Machine Learning frameworks and tools.
+- **Programming Languages**: Python, JavaScript, C, R  
+- **Frameworks & Libraries**:  
+  - **Machine Learning**: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy  
+  - **Web Development**: Django, Flask  
+  - **Automation**: Telethon, Selenium, BeautifulSoup  
+  - **Data Visualization**: Matplotlib  
+  - **Data Analysis**: R Studio, SciPy  
+- **Databases**: SQLite, MySQL  
+- **Tools**: Git, Docker, Jupyter Notebook  
 
-##  GitHub Stats
+## GitHub Stats  
 
-![Orv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsOrv&show_icons=true&theme=dark)
+![Orv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsOrv&show_icons=true&theme=dark)  
 
-
-
-Feel free to explore my repositories and connect with me if you share similar interests!
+Feel free to explore my repositories! If you're passionate about Machine Learning, Automation, or Web Development, let’s connect and collaborate.
