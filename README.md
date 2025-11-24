@@ -1,23 +1,40 @@
-## Welcome to My GitHub Profile  
+## About
 
-I'm a tech enthusiast with a deep passion for **Cybersecurity**, **Artificial Intelligence**, and **Telegram Bot Development**. My journey revolves around exploring innovative solutions and expanding my technical expertise.  
+I am a software engineer specializing in **Cybersecurity**, **Artificial Intelligence**, and **Telegram Bot Development**. I focus on building robust, secure solutions and continuously expanding my expertise in **Machine Learning**, **Automation**, and **Web Development**.
 
-Currently, I’m deepening my knowledge in **Machine Learning**, **Automation**, and **Web Development**, while working with diverse tools and libraries to build impactful projects.  
+---
 
-## Skills & Technologies  
+## Technical Stack
 
-- **Programming Languages**: Python, JavaScript, C, R  
-- **Frameworks & Libraries**:  
-  - **Machine Learning**: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy  
-  - **Web Development**: Django, Flask  
-  - **Automation**: Telethon, Selenium, BeautifulSoup  
-  - **Data Visualization**: Matplotlib  
-  - **Data Analysis**: R Studio, SciPy  
-- **Databases**: SQLite, MySQL  
-- **Tools**: Git, Docker, Jupyter Notebook  
+### Programming Languages
+`Python` `JavaScript` `C` `R`
 
-## GitHub Stats  
+### Machine Learning & AI
+`TensorFlow` `PyTorch` `Scikit-learn` `Pandas` `NumPy` `SciPy`
 
-![Orv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsOrv&show_icons=true&theme=dark)  
+### Web Development
+`Django` `Flask`
 
-Feel free to explore my repositories! If you're passionate about Machine Learning, Automation, or Web Development, let’s connect and collaborate.
+### Automation
+`Telethon` `Selenium` `BeautifulSoup`
+
+### Data Analysis & Visualization
+`R Studio` `Matplotlib` `SciPy`
+
+### Databases
+`SQLite` `MySQL`
+
+### Tools
+`Git` `Docker` `Jupyter Notebook`
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsOrv&show_icons=true&theme=dark&hide_border=true)
+
+---
+
+## Connect
+
+I'm open to collaboration on projects related to **Machine Learning**, **Automation**, or **Web Development**. Feel free to reach out.
