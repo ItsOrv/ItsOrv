@@ -1,40 +1,47 @@
 ## About
 
-I am a software engineer specializing in **Cybersecurity**, **Artificial Intelligence**, and **Telegram Bot Development**. I focus on building robust, secure solutions and continuously expanding my expertise in **Machine Learning**, **Automation**, and **Web Development**.
+I am a **Full-Stack Software Engineer** specializing in **Cybersecurity**, **Artificial Intelligence**, and **Automation Systems**, with strong expertise in **Telegram bot infrastructures**.
+I design and develop **secure, scalable, and modular systems**, with a focus on **robust backend architectures** and **responsive, user-friendly web interfaces**.
+
+My full-stack experience spans **backend development with Django**, **frontend development with React**, and **modern web design** principles. I also continuously explore **Machine Learning**, **AI-driven automation**, and **data-driven applications** to deliver production-grade solutions.
 
 ---
 
 ## Technical Stack
 
 ### Programming Languages
-`Python` `JavaScript` `C` `R`
 
-### Machine Learning & AI
-`TensorFlow` `PyTorch` `Scikit-learn` `Pandas` `NumPy` `SciPy`
+`Python` · `JavaScript` · `C` · `R`
 
-### Web Development
-`Django` `Flask`
+### Frontend & Web Development
 
-### Automation
-`Telethon` `Selenium` `BeautifulSoup`
+`React` · `HTML5` · `CSS3` · `TailwindCSS` · Responsive Design · UI/UX Best Practices
 
-### Data Analysis & Visualization
-`R Studio` `Matplotlib` `SciPy`
+### Backend & Web Frameworks
+
+`Django` · `Flask` · RESTful APIs · Modular Architecture · Authentication & Security
+
+### Artificial Intelligence & Machine Learning
+
+`PyTorch` · `TensorFlow` · `Scikit-learn`
+`Pandas` · `NumPy` · `SciPy`
+
+### Automation & Scraping
+
+`Telethon` · `Selenium` · `BeautifulSoup`
+Workflow automation · Data pipelines
 
 ### Databases
-`SQLite` `MySQL`
 
-### Tools
-`Git` `Docker` `Jupyter Notebook`
+`MySQL` · `SQLite` · Schema Design · Query Optimization
 
----
+### DevOps & Tools
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsOrv&show_icons=true&theme=dark&hide_border=true)
+`Git` · `Docker` · `Jupyter Notebook` · Linux-based Environments
 
 ---
 
-## Connect
+## Collaboration & Contact
 
-I'm open to collaboration on projects related to **Machine Learning**, **Automation**, or **Web Development**. Feel free to reach out.
+I’m open to collaborating on **full-stack projects**, **AI-driven systems**, **automation platforms**, and **web applications** that prioritize clean architecture, performance, and real-world impact.
+If you’re building something serious, feel free to reach out.
